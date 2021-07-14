@@ -45,11 +45,8 @@ public class Principal {
 
         tiposTrans.establecerPromedioTarifas();
 
-        tiposTrans.establecerPromedioTarifas();
-
         System.out.printf("Promedio de Tarifas: %.2f\n",
                 tiposTrans.obtenerPromedioTarifas());
-        //
 
     }
 }
